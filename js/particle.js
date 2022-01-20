@@ -9,7 +9,7 @@ function Particle(x, y, hu, firework) {
         if(window.innerHeight<640){
             this.vel = createVector(0, random(-16, -13))
         }else{
-            this.vel = createVector(0, random(-17, -15))
+            this.vel = createVector(0, random(-20, -15))
         }
     
     } else {
