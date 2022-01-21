@@ -22,4 +22,5 @@ function draw() {
         //     fireworks.splice(i,1)
         // }
     }
+    
 }
